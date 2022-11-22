@@ -199,4 +199,15 @@
     width: 40%;
     height: 15%;
 }
+#cuerpo{
+    text-align: center;
+}
+#conjunto{
+    width: 50%;
+    margin: auto;
+}
+ #ejercicio1, #ejercicio2, #ejercicio3, #ejercicio4, #ejercicio5
+{
+   display: none;
+}
 
