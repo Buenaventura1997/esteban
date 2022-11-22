@@ -1,6 +1,6 @@
 /*Estilos ejercicio 1 NO MODIFICAR*/
 #ejercicio1 .contenedor {
-    width: 55%;
+    width: 20em;
 }
  
 #ejercicio1 .parte1,
@@ -35,7 +35,7 @@
 #ejercicio2 .contenedor {
     display: flex;
     flex-direction: column;
-    width: 55%;
+    width: 20em;
     height: 30vh;
     margin: auto;
 }
@@ -122,7 +122,7 @@
 /*Ejercicio 4*/
 #ejercicio4 .contenedor {
     display: flex;
-    width: 55%;
+    width: 20em;
     height: 30vh;
     background-color: #fecd00;
     flex-direction: column;
@@ -178,8 +178,8 @@
 
 /*Ejercicio 5*/
 #ejercicio5 .contenedor{
-    display: flex;
-    width: 55%;
+    display: flex; 
+    width: 20em;
     height: 30vh;
     background-color: #ed1d26;
     flex-direction: column;
@@ -203,11 +203,10 @@
     text-align: center;
 }
 #conjunto{
-    width: 50%;
+    width: 25em;
     margin: auto;
 }
  #ejercicio1, #ejercicio2, #ejercicio3, #ejercicio4, #ejercicio5
 {
    display: none;
 }
-
